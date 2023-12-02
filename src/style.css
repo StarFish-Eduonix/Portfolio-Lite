@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: tomato;
+    margin-right: 10px;
+}
+
+.about h1{
+      text-align: center;
+}
+.about img{
+    width: 200px;
+    border-radius: 30%;
+    margin-left: 35%;
+}
